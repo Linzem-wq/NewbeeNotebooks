@@ -7,3 +7,4 @@ Notebooks of iFLYTEK&amp;GZIST AI Industry-Academia Collaborative College
 ## Members
 - Li Jungeng
 - Qiu Zhuo
+- Chen Hansen
