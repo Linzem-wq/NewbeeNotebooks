@@ -13,3 +13,4 @@ Notebooks of iFLYTEK&amp;GZIST AI Industry-Academia Collaborative College
 - Chen Hansen
 - Zhang Runtian
 - WenRuiWen
+- Lin Zemin
